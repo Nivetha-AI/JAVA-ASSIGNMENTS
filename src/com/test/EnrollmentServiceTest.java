@@ -58,7 +58,7 @@ public class EnrollmentServiceTest {
 		}
 				
 	}
-	
+	@Test
 	public void getCoursesTest() {
 		// use case 1
 		List<Course> list = new ArrayList<>();
